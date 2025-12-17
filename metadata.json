@@ -1,0 +1,9 @@
+
+{
+  "name": "Dental Care",
+  "description": "A premium, modern dental clinic website featuring online booking, AI-powered patient assistance, and comprehensive service details.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
